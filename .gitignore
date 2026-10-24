@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Excel Files
+data/*.xlsx
+
+# Excel Files
+*.xlsx
